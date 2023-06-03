@@ -1,0 +1,19 @@
+{
+  "detail": [
+    {
+      "loc": [
+        "body",
+        267
+      ],
+      "msg": "Expecting ',' delimiter: line 17 column 7 (char 267)",
+      "type": "value_error.jsondecode",
+      "ctx": {
+        "msg": "Expecting ',' delimiter",
+        "doc": "{\n  \"id\": \"3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad\",\n  \"day\": \"Domingo\",\n  \"songs\": [\n    {\n      \"order\": 1,\n      \"title\": \"Danzando\",\n      \"chords\": [\n        {\n          \"value\": \"Cm\",\n          \"type\": \"woman\"\n        }\n      ]\n    },\n    {\n      \"order\": 2\n      \"title\": \"La historia de cristo\",\n      \"chords\": [\n        {\n          \"value\": \"C#\",\n          \"type\": \"main\"\n        }\n      ]\n    }\n  ]\n}",
+        "pos": 267,
+        "lineno": 17,
+        "colno": 7
+      }
+    }
+  ]
+}

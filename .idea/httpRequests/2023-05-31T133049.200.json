@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "0c23d825-eb07-487a-a109-59a390239ba7",
+    "day": "Jueves",
+    "songs": [
+      {
+        "_id": "Dios poderoso",
+        "title": "Dios poderoso",
+        "chords": [
+          {
+            "value": "Bb",
+            "type": "main"
+          },
+          {
+            "value": "C",
+            "type": "woman"
+          }
+        ]
+      }
+    ],
+    "createAt": "2023-05-31"
+  },
+  {
+    "_id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+    "createAt": "2023-05-31",
+    "day": "Domingo",
+    "songs": [
+      {
+        "_id": "Danzando",
+        "chords": [
+          {
+            "value": "Cm",
+            "type": "woman"
+          }
+        ],
+        "title": "Danzando"
+      },
+      {
+        "_id": "La historia de cristo",
+        "title": "La historia de cristo",
+        "chords": [
+          {
+            "value": "C#",
+            "type": "main"
+          }
+        ]
+      }
+    ]
+  }
+]

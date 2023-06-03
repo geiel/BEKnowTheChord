@@ -1,0 +1,950 @@
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 218
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T143352.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrders": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T143344.422.json
+
+###
+
+PUT http://127.0.0.1:8000/day_song_order?title=Danzando
+Content-Type: application/json
+Content-Length: 176
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+[
+    {
+      "order": 2,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 1,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+]
+
+<> 2023-06-01T142437.200.json
+
+###
+
+PUT http://127.0.0.1:8000/day_song_order?title=Danzando
+Content-Type: application/json
+Content-Length: 176
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+[
+    {
+      "order": 2,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 1,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+]
+
+<> 2023-06-01T142209.500.txt
+
+###
+
+PUT http://127.0.0.1:8000/day_song_order?title=Danzando
+Content-Type: application/json
+Content-Length: 176
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+[
+    {
+      "order": 2,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 1,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+]
+
+<> 2023-06-01T141939.500.txt
+
+###
+
+PUT http://127.0.0.1:8000/day_song_order?title=Danzando
+Content-Type: application/json
+Content-Length: 176
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+[
+    {
+      "order": 2,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 1,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+]
+
+<> 2023-06-01T141728.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrders": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T135030.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T131204.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T131133.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T131111.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T130755.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T125613.200.json
+
+###
+
+POST http://127.0.0.1:8000/songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "Danzando",
+  "chords": [
+    {
+      "value": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T125458.200.json
+
+###
+
+POST http://127.0.0.1:8000/songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "title": "Danzando",
+  "chords": [
+    {
+      "value": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T124859.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/3b1c922d-e2b1-46db-affc-59d856fbd21f
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T124346.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T124237.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T124209.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T124123.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 218
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "dayChord": "E"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "dayChord": "Em"
+    }
+  ]
+}
+
+<> 2023-06-01T123926.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 272
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "dayChord": {
+        "value": "E"
+      }
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "dayChord": {
+        "value": "Em"
+      }
+    }
+  ]
+}
+
+<> 2023-06-01T122101.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/25df708e-87b9-4bee-a86d-35676487972e
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T114229.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs/25df708e-87b9-4bee-a86d-35676487972e
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T113510.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs/25df708e-87b9-4bee-a86d-35676487972e
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T113448.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs/25df708e-87b9-4bee-a86d-35676487972e
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T113425.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs/25df708e-87b9-4bee-a86d-35676487972e
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-01T113314.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 171
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T113302.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 220
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "_id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T113027.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 220
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "_id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T113022.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 220
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "_id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T113002.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T112936.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T112922.200.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T112316.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T112032.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T111900.500.txt
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 219
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T111808.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 214
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songs": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T111749.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 214
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songs": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T111713.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 214
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songs": [
+    {
+      "order": 1,
+      "title": "Danzando"
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo"
+    }
+  ]
+}
+
+<> 2023-06-01T111709.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 409
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songs": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "chords": [
+        {
+          "value": "Cm",
+          "type": "woman"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "La historia de cristo",
+      "chords": [
+        {
+          "value": "C#",
+          "type": "main"
+        }
+      ]
+    }
+  ]
+}
+
+<> 2023-05-31T161723.422.json
+
+###
+
+POST http://127.0.0.1:8000/day_songs
+Accept: application/json
+Content-Type: application/json
+Content-Length: 408
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songs": [
+    {
+      "order": 1,
+      "title": "Danzando",
+      "chords": [
+        {
+          "value": "Cm",
+          "type": "woman"
+        }
+      ]
+    },
+    {
+      "order": 2
+      "title": "La historia de cristo",
+      "chords": [
+        {
+          "value": "C#",
+          "type": "main"
+        }
+      ]
+    }
+  ]
+}
+
+<> 2023-05-31T161710.422.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T133049.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T132854.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T132524.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T132339.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T132100.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T132031.200.json
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T131951.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T131917.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T131733.500.txt
+
+###
+
+GET http://127.0.0.1:8000/day_songs?page_number=1&page_size=1
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T130938.200.json
+
+###
+

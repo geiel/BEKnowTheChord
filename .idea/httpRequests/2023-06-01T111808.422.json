@@ -1,0 +1,24 @@
+{
+  "detail": [
+    {
+      "loc": [
+        "body",
+        "songsOrder",
+        0,
+        "songs"
+      ],
+      "msg": "field required",
+      "type": "value_error.missing"
+    },
+    {
+      "loc": [
+        "body",
+        "songsOrder",
+        1,
+        "songs"
+      ],
+      "msg": "field required",
+      "type": "value_error.missing"
+    }
+  ]
+}

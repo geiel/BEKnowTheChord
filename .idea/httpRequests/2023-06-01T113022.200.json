@@ -1,0 +1,14 @@
+{
+  "_id": "3fd28b53-1ef9-40cf-a8a7-4efbac43c8ad",
+  "day": "Domingo",
+  "songsOrder": [
+    {
+      "title": "Danzando",
+      "order": 1
+    },
+    {
+      "title": "La historia de cristo",
+      "order": 2
+    }
+  ]
+}

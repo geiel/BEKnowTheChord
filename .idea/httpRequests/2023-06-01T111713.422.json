@@ -1,0 +1,11 @@
+{
+  "detail": [
+    {
+      "loc": [
+        "body"
+      ],
+      "msg": "'UUID' object is not callable",
+      "type": "type_error"
+    }
+  ]
+}
