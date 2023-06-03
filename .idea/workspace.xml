@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b19bc2d-2a69-42fd-bf72-9df19ec24b34" name="Changes" comment="Add .gitignore" />
+    <list default="true" id="6b19bc2d-2a69-42fd-bf72-9df19ec24b34" name="Changes" comment="Add .gitignore">
+      <change beforePath="$PROJECT_DIR$/../BEKnowTheChord/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../BEKnowTheChord/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BEKnowTheChord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BEKnowTheChord/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BEKnowTheChord" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QOjY06O2c9Mr7Pf29dKJWDu6Vf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,7 +250,7 @@
       <workItem from="1685231588399" duration="12234000" />
       <workItem from="1685312870737" duration="30552000" />
       <workItem from="1685632358776" duration="16383000" />
-      <workItem from="1685668976190" duration="25583000" />
+      <workItem from="1685668976190" duration="25888000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1685817673220</created>
