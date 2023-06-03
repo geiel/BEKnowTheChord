@@ -1,1 +1,1 @@
-# Know the chord B
+# Know the chord BE
